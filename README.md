@@ -1,4 +1,4 @@
-# MachineLearningStudy
+# Machine Learning Study
 
 - Machine Learning Study with *TensorFlow 2* and *Scikit-Learn* 
 - Date : July 13, 2021 ~
